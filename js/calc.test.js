@@ -1,6 +1,6 @@
-const calculate = require('./calc');
+const calculate = require('./calc.js');
 
-describe('Claulates', () => {
+describe('Caliculates', () => {
 test('sum', () => {
   expect(calculate.add(2,3)).toBe(5);
   expect(calculate.add(10,3)).toBe(13);

@@ -20,5 +20,5 @@ class calculator {
   }
 }
 
-module.export = calculator;
+module.exports = calculator;
   
